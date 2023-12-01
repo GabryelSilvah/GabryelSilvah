@@ -15,8 +15,9 @@
 </div>
 
 ## Objetivos
--Em busco de me tornar um desenvolvedor fullStack<br><br>
+-Em busco de me tornar um desenvolvedor full stack<br>
 
--Adquiri novos conhecimentos com profissionais da área<br><br>
+-Adquiri novos conhecimentos com profissionais da área<br>
 
 -Aprimorar minhas hard/solf skills
+
