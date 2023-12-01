@@ -1,7 +1,7 @@
 ### Desenvolvedor
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsilva17/)
-[![Website](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://seven-7-pot.netlify.app/)
+[![Website](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://seven-7-pot.netlify.app/)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabryelSilvah&show_icons=true&theme=radical)
 
 ## Tecnologias
