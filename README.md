@@ -19,6 +19,6 @@
 ## Objetivos
 -Em busca de me tornar um desenvolvedor full stack<br>
 
--Adquiri novos conhecimentos com profissionais da área<br>
+-Realizar network com pessoas da área<br>
 
 -Aprimorar minhas hard/solf skills
