@@ -21,4 +21,4 @@
 
 - Primeiro estágio na TI<br>
 
-- Aprimorar minhas hard/solf skills
+- Aprimorar minhas hard/soft skills
