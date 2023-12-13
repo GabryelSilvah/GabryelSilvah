@@ -17,8 +17,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelSilvah&layout=compact)
 
 ## Objetivos
--Em busca de me tornar um desenvolvedor full stack<br>
+- Em busca de me tornar um desenvolvedor full stack<br>
 
--Realizar network com pessoas da área<br>
+- Primeiro estágio na área<br>
 
--Aprimorar minhas hard/solf skills
+- Aprimorar minhas hard/solf skills
