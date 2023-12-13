@@ -19,6 +19,6 @@
 ## Objetivos
 - Em busca de me tornar um desenvolvedor full stack<br>
 
-- Primeiro estágio na área<br>
+- Primeiro estágio na TI<br>
 
 - Aprimorar minhas hard/solf skills
