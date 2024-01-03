@@ -30,3 +30,5 @@
 - Documentação de APIs
 
 - Banco de dados Relacional
+
+- Sistemas de cálculos
