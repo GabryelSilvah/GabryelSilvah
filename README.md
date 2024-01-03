@@ -17,7 +17,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelSilvah&layout=compact)
 
 ## Projetos
-- APIs REST<br>
+
+<tr>
+      <td>APIs REST</td>
+</tr>
+
 
 - Consumo de APIs<br>
 
