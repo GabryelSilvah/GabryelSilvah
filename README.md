@@ -26,3 +26,5 @@
 - CRUD MVC
 
 - Landing pages
+
+- Documentação de APIs
