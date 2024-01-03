@@ -34,6 +34,9 @@
       <tr>
             <td>Programação assíncrona</td>
       </tr>
+        <tr>
+            <td>programação orientada a objetos</td>
+      </tr>
       <tr>
             <td>Documentação de APIs</td>
       </tr>
