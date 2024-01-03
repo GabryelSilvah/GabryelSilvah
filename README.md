@@ -20,7 +20,7 @@
 
 <table boder="1">
       <tr>
-            <td  style="background-color: gray;">APIs REST</td>
+            <td>APIs REST</td>
       </tr>
       <tr>
             <td>Consumo de APIs</td>
