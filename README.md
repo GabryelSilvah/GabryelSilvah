@@ -19,8 +19,8 @@
 ## Projetos
 
 <table boder="1">
-      <tr style="color: #808080">
-            <td>APIs REST</td>
+      <tr>
+            <td  style="background-color: #808080;">APIs REST</td>
       </tr>
       <tr>
             <td>Consumo de APIs</td>
