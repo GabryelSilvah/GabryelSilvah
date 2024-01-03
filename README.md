@@ -16,9 +16,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelSilvah&layout=compact)
 
-## Objetivos
-- Em busca de me tornar um desenvolvedor full stack<br>
+## Projetos
+- APIs REST<br>
 
-- Primeiro estágio na TI<br>
+- Consumo de APIs<br>
 
-- Aprimorar minhas hard/soft skills
+- Validação de usuário
+
+- Landing pages
