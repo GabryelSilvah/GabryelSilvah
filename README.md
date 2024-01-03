@@ -19,7 +19,7 @@
 ## Projetos
 
 <table boder="1">
-      <tr color= red>
+      <tr style="color: #808080">
             <td>APIs REST</td>
       </tr>
       <tr>
