@@ -28,3 +28,5 @@
 - Landing pages
 
 - Documentação de APIs
+
+- Banco de dados Relacional
