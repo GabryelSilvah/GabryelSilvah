@@ -20,24 +20,13 @@
 
 <table boder="1">
       <tr>
-      <td>APIs REST</td>
-</tr>
+            <td>APIs REST</td>
+            <td>Consumo de APIs</td>
+            <td>Validação de usuário</td>
+            <td>Landing pages</td>
+            <td>Programação assíncrona</td>
+            <td>Documentação de APIs</td>
+            <td>Banco de dados Relacional</td>
+            <td>Sistemas de cálculos</td>
+      </tr>
 </table>
-
-
-
-- Consumo de APIs<br>
-
-- Validação de usuário
-
-- CRUD MVC
-
-- Landing pages
-
-- Programação assíncrona
-
-- Documentação de APIs
-
-- Banco de dados Relacional
-
-- Sistemas de cálculos
