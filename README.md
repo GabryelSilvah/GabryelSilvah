@@ -23,4 +23,6 @@
 
 - Validação de usuário
 
+- CRUD MVC
+
 - Landing pages
