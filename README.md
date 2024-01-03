@@ -28,6 +28,9 @@
       <tr>
             <td>Validação de usuário</td>
       </tr>
+        <tr>
+            <td>CRUD MVC</td>
+      </tr>
       <tr>
             <td>Landing pages</td>
       </tr>
