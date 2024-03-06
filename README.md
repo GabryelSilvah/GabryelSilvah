@@ -17,7 +17,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelSilvah&layout=compact)
 
 <p>
-      Procuro oportunidade de amadurecimento dos meus códigos e estruturação de projetos. Tenho sede por aprendizado, estou sempre me dedicando a aprender algo novo. Concerteza ainda sou pequeno nesse mar de profissionais qualificados, mas estou em busca da luz do conhecimeto para me torna alguém em que se possa espelhar.
+      Procuro oportunidade de amadurecimento dos meus códigos e estruturação de projetos. Tenho sede por aprendizado, estou sempre me dedicando a aprender algo novo. Com certeza ainda sou pequeno nesse mar de profissionais qualificados, mas estou em busca da luz do conhecimento para me torna alguém em que se possa espelhar.
 </p>
 
 ## Projetos
