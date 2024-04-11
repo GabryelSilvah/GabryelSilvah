@@ -26,7 +26,11 @@
 <p>
        Atenção: projetos e codificação desatualizados. Devido aos dias extremamente corriqueiros não tive tempo de atualizar os projetos. Meu conhecimento tem aumentado exponencialmente a cada dia e hoje enxergo as falhas, erros e vulnerabilidades dos meus códigos.
 </p>
+<h2>
+      Portfolio de Projetos
+</h2>
 
+<a>https://my-profile-7.netlify.app/</a>
 ## Projetos
 
 <table boder="1">
