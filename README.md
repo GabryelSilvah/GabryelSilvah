@@ -28,33 +28,19 @@
 
 <table boder="1">
       <tr>
-            <td>APIs REST</td>
+            <td>Desenvolvimento de Sistemas</td>
       </tr>
       <tr>
-            <td>Consumo de APIs</td>
+            <td>Construção de Banco de Dados</td>
       </tr>
       <tr>
-            <td>Validação de usuário</td>
+            <td>Sistema de Autenticação</td>
       </tr>
         <tr>
-            <td>CRUD MVC</td>
+            <td>Arquitetura MVC</td>
       </tr>
       <tr>
-            <td>Landing pages</td>
+            <td>Documentação no Postman</td>
       </tr>
-      <tr>
-            <td>Programação assíncrona</td>
-      </tr>
-        <tr>
-            <td>Programação orientada a objetos</td>
-      </tr>
-      <tr>
-            <td>Documentação de APIs</td>
-      </tr>
-      <tr>
-            <td>Banco de dados Relacional</td>
-      </tr>
-      <tr>
-            <td>Sistemas de cálculos</td>
-      </tr>
+   
 </table>
