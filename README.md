@@ -23,7 +23,6 @@
       Portfolio de Projetos
 </h2>
 
-<a>https://my-profile-7.netlify.app/</a>
 ## Projetos
 
 <table boder="1">
