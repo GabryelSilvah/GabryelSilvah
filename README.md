@@ -30,16 +30,31 @@
             <td>Desenvolvimento de Sistemas</td>
       </tr>
       <tr>
-            <td>Construção de Banco de Dados</td>
+            <td>PHP</td>
       </tr>
       <tr>
-            <td>Sistema de Autenticação</td>
+            <td>JAVA</td>
       </tr>
         <tr>
-            <td>Arquitetura MVC</td>
+            <td>KOTLIN</td>
       </tr>
       <tr>
-            <td>Documentação no Postman</td>
+            <td>SQL</td>
+      </tr>
+       <tr>
+            <td>HTML</td>
+      </tr>
+       <tr>
+            <td>CSS</td>
+      </tr>
+       <tr>
+            <td>GIT</td>
+      </tr>
+       <tr>
+            <td>POSTMAN</td>
+      </tr>
+       <tr>
+            <td>MOBILE</td>
       </tr>
    
 </table>
