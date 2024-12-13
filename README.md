@@ -17,7 +17,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelSilvah&layout=compact)
 
 <p>
-       Atenção: projetos e codificação desatualizados. Devido aos dias extremamente corriqueiros não tive tempo de atualizar os projetos. Meu conhecimento tem aumentado exponencialmente a cada dia e hoje enxergo as falhas, erros e vulnerabilidades dos meus códigos.
+       Atenção: projetos e codificação desatualizados. Devido aos dias extremamente corriqueiros não tive tempo de atualizar os projetos. Meu conhecimento tem aumentado exponencialmente a cada dia. Hoje enxergo as falhas, erros e vulnerabilidades nos meus projetos já postados aqui.
 </p>
 <h2>
       Portfolio de Projetos
