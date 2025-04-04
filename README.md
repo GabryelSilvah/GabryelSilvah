@@ -17,7 +17,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelSilvah&layout=compact)
 
 <p>
-    Programador Full Stack, desenvolvido sistema para cloud, modelagem de bases de dados, versionamento de código, desenvolvimento para dispositivos moveis e hardwares.
+    Programador Full Stack, desenvolvendo sistemas para computação em cloud, modelagem de bases de dados, versionamento de código, desenvolvimento para dispositivos moveis e hardwares.
       
 </p>
 <h2>
