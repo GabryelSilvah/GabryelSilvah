@@ -17,7 +17,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelSilvah&layout=compact)
 
 <p>
-       Atenção: projetos e codificação desatualizados. Devido aos dias extremamente corriqueiros não tive tempo de atualizar os projetos. Meu conhecimento tem aumentado exponencialmente a cada dia. Hoje enxergo as falhas, erros e vulnerabilidades nos meus projetos já postados aqui.
+    Programador Full Stack, desenvolvido sistema para cloud, modelagem de bases de dados, versionamento de código, desenvolvimento para dispositivos moveis e hardwares.
+      
 </p>
 <h2>
       Portfolio de Projetos
@@ -29,32 +30,32 @@
       <tr>
             <td>Desenvolvimento de Sistemas</td>
       </tr>
+       <tr>
+            <td>JAVA</td>
+      </tr>
       <tr>
             <td>PHP</td>
       </tr>
       <tr>
-            <td>JAVA</td>
-      </tr>
-        <tr>
-            <td>KOTLIN</td>
+            <td>PostGres</td>
       </tr>
       <tr>
-            <td>SQL</td>
+            <td>MySql</td>
       </tr>
        <tr>
-            <td>HTML</td>
+            <td>Git/GitHub</td>
       </tr>
        <tr>
-            <td>CSS</td>
+            <td>Mobile</td>
       </tr>
        <tr>
-            <td>GIT</td>
+            <td>JavaScript</td>
       </tr>
        <tr>
             <td>POSTMAN</td>
       </tr>
        <tr>
-            <td>MOBILE</td>
+            <td>SQLite</td>
       </tr>
    
 </table>
