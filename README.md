@@ -28,7 +28,7 @@
 
 <table boder="1">
       <tr>
-            <td>Desenvolvimento de Sistemas</td>
+            <td>Stack</td>
       </tr>
        <tr>
             <td>JAVA</td>
