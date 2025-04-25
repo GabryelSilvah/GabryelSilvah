@@ -26,7 +26,7 @@ Conhecimentos de SQL, versionamento de código com Git/GitHub, OOP, arquitetura 
 Pretendo aprimorar as minhas habilidades com os conhecimentos de defesa cibernética, visando desenvolver soluções voltadas para esse segmento.
 </p>
 
-## Conhecimentos de back-end
+## Conhecimentos gerais
 
 - Estrutura de dados (Array, matriz, ArrayList, HashMap)
 - Classes, objetos e instâncias
@@ -35,6 +35,7 @@ Pretendo aprimorar as minhas habilidades com os conhecimentos de defesa ciberné
 - Encapsulamento, herança, polimorfismo e abstração
 - classes anônimas
 - Associação de objetos
+- Exceptions
 - Annotations
 - Generics
 
