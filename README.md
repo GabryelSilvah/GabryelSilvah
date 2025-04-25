@@ -17,8 +17,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelSilvah&layout=compact)
 
 <p>
-    Programador Full Stack, desenvolvendo sistemas para computação em cloud, modelagem de bases de dados, versionamento de código, desenvolvimento para dispositivos moveis e hardwares.
-      
+Desenvolvedor full stack e apaixonado por cibersegurancça. 
+
+Minhas principais tecnologias são java e php, sendo que java eu utilizo para back-end e apps mobile. 
+
+Conhecimentos de SQL, versionamento de código com Git/GitHub, OOP, arquitetura de software(MVC) e APIs REST. 
+
+Pretendo aprimorar as minhas habilidades com os conhecimentos de defesa cibernética, visando desenvolver soluções voltadas para esse segmento.
 </p>
 <h2>
       Portfolio de Projetos
