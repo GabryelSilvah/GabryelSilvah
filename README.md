@@ -17,7 +17,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelSilvah&layout=compact)
 
 <p>
-Desenvolvedor full stack e apaixonado por cibersegurancça. 
+Desenvolvedor full stack e apaixonado por cibersegurança. 
 
 Minhas principais tecnologias são java e php, sendo que java eu utilizo para back-end e apps mobile. 
 
@@ -25,6 +25,20 @@ Conhecimentos de SQL, versionamento de código com Git/GitHub, OOP, arquitetura 
 
 Pretendo aprimorar as minhas habilidades com os conhecimentos de defesa cibernética, visando desenvolver soluções voltadas para esse segmento.
 </p>
+
+## Conhecimentos de back-end
+
+- Estrutura de dados (Array, matriz, ArrayList, HashMap)
+- Classes, objetos e instâncias
+- Interfaces
+- Métodos, atributos e visibilidade de atributos
+- Encapsulamento, herança, polimorfismo e abstração
+- classes anônimas
+- Associação de objetos
+- Annotations
+
+
+
 <h2>
       Portfolio de Projetos
 </h2>
