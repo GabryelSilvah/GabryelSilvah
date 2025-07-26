@@ -17,69 +17,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelSilvah&layout=compact)
 
 <p>
-Desenvolvedor full stack e apaixonado por cibersegurança. 
-
-Minhas principais tecnologias são java e php, sendo que java eu utilizo para back-end e apps mobile. 
-
-Conhecimentos de SQL, versionamento de código com Git/GitHub, OOP, arquitetura de software(MVC) e APIs REST. 
-
-Pretendo aprimorar as minhas habilidades com os conhecimentos de defesa cibernética, visando desenvolver soluções voltadas para esse segmento.
+Desenvolvedor de sistemas web e mobile. Cursando pós-graduação em defesa cibernética.
+Habilidades com Java, Spring Boot, Android, php, Javascript, banco de dados (MySql e PostgreSQL). 
+Implementação de sistemas com POO, APIs Rest, arquitetura de software MVC, controle de versão com git/GitHub.
+Ao longo de 2 anos, eu pude obter novos conhecimentos e experiência ao desenvolver projetos de forma autônoma e estudar novos métodos.
+Nesses 2 anos, também observei aspectos um tanto curiosos no setor de TI. Aspectos esses que podem se tornar um risco iminente, impactando vários setores e
+consequentemente, isso reflete na minha vida. Além disso, o cenário atual exige velocidade, sem dar tempo para aprender a fazer com qualidade.  
+Eficacia é o protagonista e o figurante da história, a eficiência. Eu com certeza não gosto dessa maneira de agir, o sincronismo é um tanto mais elegante.
+No entanto, como eu não defino as regras do jogo, decidi que vou me aventurar de outra forma...
 </p>
-
-## Conhecimentos gerais
-
-- Estrutura de dados (Array, matriz, ArrayList, HashMap)
-- Classes, objetos e instâncias
-- Interfaces
-- Métodos, atributos e visibilidade de atributos
-- Encapsulamento, herança, polimorfismo e abstração
-- classes anônimas
-- Associação de objetos
-- Exceptions
-- Annotations
-- Generics
-
-
-
-<h2>
-      Portfolio de Projetos
-</h2>
-
-## Projetos
-
-<table boder="1">
-      <tr>
-            <td>Stack</td>
-      </tr>
-       <tr>
-            <td>JAVA</td>
-      </tr>
-      <tr>
-            <td>PHP</td>
-      </tr>
-      <tr>
-            <td>PostGres</td>
-      </tr>
-      <tr>
-            <td>MySql</td>
-      </tr>
-       <tr>
-            <td>Git/GitHub</td>
-      </tr>
-       <tr>
-            <td>Mobile</td>
-      </tr>
-       <tr>
-            <td>Spring Boot</td>
-      </tr>
-       <tr>
-            <td>JavaScript</td>
-      </tr>
-       <tr>
-            <td>POSTMAN</td>
-      </tr>
-       <tr>
-            <td>SQLite</td>
-      </tr>
    
 </table>
