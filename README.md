@@ -20,6 +20,7 @@
 Desenvolvedor de sistemas web e mobile. Cursando pós-graduação em defesa cibernética.
 Habilidades com Java, Spring Boot, Android, php, Javascript, banco de dados (MySql e PostgreSQL). 
 Implementação de sistemas com POO, APIs Rest, arquitetura de software MVC, controle de versão com git/GitHub.
+      
 Ao longo de 2 anos, eu pude obter novos conhecimentos e experiência ao desenvolver projetos de forma autônoma e estudar novos métodos.
 Nesses 2 anos, também observei aspectos um tanto curiosos no setor de TI. Aspectos esses que podem se tornar um risco iminente, impactando vários setores e
 consequentemente, isso reflete na minha vida. Além disso, o cenário atual exige velocidade, sem dar tempo para aprender a fazer com qualidade.  
