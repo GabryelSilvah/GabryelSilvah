@@ -25,8 +25,9 @@ Ao longo de 2 anos, eu pude obter novos conhecimentos e experiência ao desenvol
 Nesses 2 anos, também observei aspectos um tanto curiosos no setor de TI. Aspectos esses que podem se tornar um risco iminente, impactando vários setores, 
 consequentemente, isso reflete na minha vida. Além disso, o cenário atual exige velocidade, sem dar tempo para aprender a fazer com qualidade.
 
-Eficacia é o protagonista, já o figurante da história, a eficiência. Eu com certeza não gosto dessa maneira de agir, o sincronismo é um tanto mais elegante.
-No entanto, como eu não defino as regras do jogo, decidi que vou me aventurar de outra forma...
+O futuro ainda é muito incerto, e eu ainda não sei bem o que eu vou fazer, só tenho a certeza de como quero fazer.
+Decidi que vou me aventurar de outra forma... usando todo  conhecimento que obtive até aqui para criar minha própria maneira de 
+trabalhar.
 </p>
    
 </table>
