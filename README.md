@@ -19,7 +19,7 @@
 <p>
 Analista e desenvolvedor independente. Formado na Faculdade de Tecnologia e Inovação Senac - DF. Especialidade em desenvolvimento de sistemas web e Android. Focado na criação de ferramentas tecnológicas que auxiliam usuários.
 
-Antagonista de tecnologias hypadas, um explorador de tecnologias alternativas que estão longe dos holofotes. Utilizador de metodologia pragmática, no qual constrói um mínimo resultado real e desenvolve a partir dele.Observar elementos e interações do mundo real e dos métodos utilizados como inspiração para criação de novos recursos que possam detectar e resolver problemas importantes.
+Antagonista de tecnologias hypadas, um explorador de tecnologias alternativas que estão longe dos holofotes. Utilizador de metodologia pragmática para construir um mínimo resultado real e desenvolve a partir dele.Observar elementos e interações do mundo real e dos métodos utilizados como inspiração para criação de novos recursos que possam detectar e resolver problemas importantes.
 </p>
    
 </table>
