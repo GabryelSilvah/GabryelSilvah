@@ -17,17 +17,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelSilvah&layout=compact)
 
 <p>
-Desenvolvedor de sistemas web e mobile. Cursando pós-graduação em defesa cibernética.
-Habilidades com Java, Spring Boot, Android, php, Javascript, banco de dados (MySql e PostgreSQL). 
-Implementação de sistemas com POO, APIs Rest, arquitetura de software MVC, controle de versão com git/GitHub.
-      
-Ao longo de 2 anos, eu pude obter novos conhecimentos e experiência ao desenvolver projetos de forma autônoma e estudar novos métodos.
-Nesses 2 anos, também observei aspectos um tanto curiosos no setor de TI. Aspectos esses que podem se tornar um risco iminente, impactando vários setores, 
-consequentemente, isso reflete na minha vida. Além disso, o cenário atual exige velocidade, sem dar tempo para aprender a fazer com qualidade.
+Analista e desenvolvedor independente. Formado na Faculdade de Tecnologia e Inovação Senac - DF. Especialidade em desenvolvimento de sistemas web e Android. Focado na criação de ferramentas tecnológicas que auxiliam usuários.
 
-O futuro ainda é muito incerto, e eu ainda não sei bem o que eu vou fazer, só tenho a certeza de como quero fazer.
-Decidi que vou me aventurar de outra forma... usando todo  conhecimento que obtive até aqui para criar minha própria maneira de 
-trabalhar.
+Antagonista de tecnologias hypadas, um explorador de tecnologias alternativas que estão longe dos holofotes. Gosto de observar os elementos e interações do mundo real, visando que de alguma forma seja inspiração para criação de novos recursos que possam resolver problemas importantes.
 </p>
    
 </table>
