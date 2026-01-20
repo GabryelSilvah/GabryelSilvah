@@ -17,9 +17,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelSilvah&layout=compact)
 
 <p>
-Analista e desenvolvedor independente. Formado na Faculdade de Tecnologia e Inovação Senac - DF. Especialidade em desenvolvimento de sistemas web e Android. Focado na criação de ferramentas tecnológicas que auxiliam usuários.
+Analista e desenvolvedor de software, formado pela Faculdade de Tecnologia e Inovação Senac - DF. Especialidade em desenvolvimento de sistemas web e Android. Focado na criação de ferramentas tecnológicas que auxiliam usuários.
 
-Antagonista de tecnologias hypadas, um explorador de tecnologias alternativas, que pouco são utilizadas, mas com grande potencial de uso. Desenvolvimento pragmático, construindo um mínimo resultado real e incrementando a partir dele. Para detectar e resolver problemas importantes, observo elementos e interações do mundo real como metodologia para utilização e abstração de novos recursos tecnológicos.
+Antagonista de tecnologias hypadas, um explorador de tecnologias alternativas, que pouco são utilizadas, mas com grande potencial de uso. 
+Posteriomente, qualificação em Planejamento e Implementação de Segurança em Redes de Computadores.
+
+Sou pragmático no sentido de buscar um resultado real inicialmente ao invés tentar planejar todos os "pontos e vírgulas e no final não conseguir uma escrever uma frase completa". 
+Foco em desenvolvimento full stack com maior domínio nas linguagens Java, PHP, HTML, CSS e PostgreSQL. Além disso, particularmente sou um antagonista de tecnologias hypadas, pois 
+muitas dessas tecnologias/frameworks estão ali por puro populismo e não por usabilidade. Nesse sentido, busco explorar tecnologias alternativas que equilibram a usabilidade, 
+simplicidade e segurança. Estou em constante busca por aprendizado e aprimoramento, aberto a aprender com quem estar disposto a ensinar. 
 </p>
    
 </table>
