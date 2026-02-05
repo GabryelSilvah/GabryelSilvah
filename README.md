@@ -8,6 +8,8 @@
 
 <div>
 <img src="https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green" alt="icone de tecnologia dev">
+<img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte" alt="icone de tecnologia dev">
+<img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="icone de tecnologia dev">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="icone de tecnologia dev">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="icone de tecnologia dev">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="icone de tecnologia dev">
