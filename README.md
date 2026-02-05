@@ -17,10 +17,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelSilvah&layout=compact)
 
 <p>
-Analista e desenvolvedor de software, formado pela Faculdade de Tecnologia e Inovação Senac - DF. Especialidade em desenvolvimento de sistemas web e Android. Focado na criação de
-ferramentas tecnológicas que auxiliam usuários.
-
-No tempo livre, um explorador de tecnologias alternativas que tem potencial promissor.
+Analista e desenvolvedor de software, formado pela Faculdade de Tecnologia e Inovação Senac - DF. 
+Adicionalmente, qualificação em Planejamento e Implementação de Segurança em Redes de Computadores. 
+Focado em desenvolvimento de sistemas web e Android e no tempo livre, um explorador de potenciais tecnologias alternativas.
+Full Stack com maior dominio nas linguagens Java e PHP.
 </p>
    
 </table>
