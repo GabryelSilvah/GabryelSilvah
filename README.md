@@ -24,7 +24,8 @@
 <p>
 Analista e desenvolvedor de software, formado pela Faculdade de Tecnologia e Inovação Senac - DF. 
 Adicionalmente, qualificação em Planejamento e Implementação de Segurança em Redes de Computadores. 
-Focado em desenvolvimento de sistemas web e Android e no tempo livre, um explorador de potenciais tecnologias alternativas.
+Focado em desenvolvimento de sistemas web e Android.
+No tempo livre, um explorador de potenciais tecnologias alternativas.
 Full Stack com maior domínio nas linguagens Java e PHP.
 </p>
    
